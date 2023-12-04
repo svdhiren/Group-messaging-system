@@ -1,5 +1,8 @@
 # Group-messaging-system
 
+
+![Messaging system](https://github.com/svdhiren/Group-messaging-system/assets/84956418/30af4877-14a9-454c-851b-c37831aaa3d4)
+
 The entities in the system are a server and multiple clients in the form of groups.
 
 The clients in a particular group can communicate with each other with the help of the server using pipes and message queues.
@@ -12,3 +15,5 @@ I additionally added a separated thread to accept broadcasting requests from cli
 
 
 Played around a lot and learnt a ton about Interprocess communication, multithreading and system level C programming!!
+
+
